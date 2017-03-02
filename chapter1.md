@@ -20,6 +20,10 @@ about configuration:
     "editor.dragAndDrop": true,
     // 控制是否应换行。换行依据为 min(editor.wrappingColumn, viewportWidthInColumns)。
     "editor.wordWrap": "on",
+    // 控制光标样式，接受的值为 "block"、"line" 和 "underline"
+    "editor.cursorStyle": "block",
+    // 控制光标动画样式，可能的值为 "blink"、"smooth"、"phase"、"expand" 和 "solid"
+    "editor.cursorBlinking": "expand",
     // 配置语言的文件关联(如: "*.extension": "html")。这些关联的优先级高于已安装语言的默认关联。
     "files.associations": {
         "*.vue": "vue"
