@@ -10,6 +10,8 @@ about configuration:
 {
     "workbench.colorTheme": "Monokai",
     "workbench.iconTheme": "vs-seti",
+    // 控制已更新文件的自动保存。接受的值:“off”、"afterDelay”、"onFocusChange”(编辑器失去焦点)、"onWindowChange”(窗口失去焦点)。如果设置为“afterDelay”，则可在 "files.autoSaveDelay" 中配置延迟。
+    "files.autoSave": "onWindowChange",
     // 控制是否显示 minimap
     "editor.minimap.enabled": true,
     // Render the actual characters on a line (as opposed to color blocks)
@@ -39,7 +41,6 @@ about configuration:
     // Turns auto fix on save on or off.
     "eslint.autoFixOnSave": true
 }
-
 ```
 
 
