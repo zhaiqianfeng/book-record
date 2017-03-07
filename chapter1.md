@@ -2,6 +2,14 @@
 
 1. vetur : support vue
 2. eslint
+3. bookmarks
+4. Coding Tracker : a coding activities tracker
+5. Date & Time : display a clock and date in the status bar
+6. Insert Date String
+7. pomodoro-code : a pomodoro timer indside your ide
+8. TODO highlight
+9. vscode\_fileheader
+10. vscode-todo
 
 about configuration:
 
