@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [2017/03/02](chapter1.md)
-* [2017/03/03](20170303.md)
+* [About Visul Studio Code](chapter1.md)
+* [Git 常用命令](20170303.md)
 
